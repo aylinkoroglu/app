@@ -1,0 +1,41 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: rgb(37, 36, 36);
+    color: white;
+}
+
+#lieu {
+    padding: 30px;
+    text-align: center;
+    margin: 0;
+}
+
+.col-12 {
+    padding: 30px;
+}
+
+.day {
+    text-align: center;
+}
+
+.day img {
+    padding: 20px;
+}
+
+.joursuivant {
+    padding: 20px;
+    text-align: center;
+    height: 80px;
+    border-top: rgb(248, 190, 82) 1px solid;
+}
+
+#imgjs {
+    width: 40px;
+    height: 35px;
+    right: 20px;
+    position: absolute;
+}
+
+.texte {
+    line-height: 50%;
+}
