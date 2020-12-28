@@ -1,11 +1,32 @@
 * {
     font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+.container-fluid {
     background-color: rgb(37, 36, 36);
     color: white;
 }
 
+.recherche {
+    padding: 10px;
+    position:absolute;
+    right: 0;
+}
+
+#refresh {
+    color: white;
+}
+
+#go {
+    background-color: orange;
+    border: none;
+    height: 30px;
+}
+
 #lieu {
     padding: 30px;
+    padding-top: 100px!important;
     text-align: center;
     margin: 0;
 }
@@ -25,7 +46,7 @@
 .joursuivant {
     padding: 20px;
     text-align: center;
-    height: 80px;
+    /* height: 80px; */
     border-top: rgb(248, 190, 82) 1px solid;
 }
 
